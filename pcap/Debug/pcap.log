@@ -1,0 +1,8 @@
+﻿  example.cpp
+c:\users\hwang\documents\visual studio 2015\projects\pcap\pcap\헤더.h(19): warning C4081: '식별자'이(가) 있어야 하는데 '('이(가) 있습니다.
+c:\users\hwang\documents\visual studio 2015\projects\pcap\pcap\헤더.h(25): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ether_addr' 왼쪽은 무시됩니다.
+c:\users\hwang\documents\visual studio 2015\projects\pcap\pcap\example.cpp(7): warning C4101: 'rdr' :참조되지 않은 지역 변수입니다.
+  airodumump.cpp
+  코드를 생성하고 있습니다...
+  pcap.vcxproj -> C:\Users\Hwang\documents\visual studio 2015\Projects\pcap\Debug\pcap.exe
+  pcap.vcxproj -> C:\Users\Hwang\documents\visual studio 2015\Projects\pcap\Debug\pcap.pdb (Full PDB)

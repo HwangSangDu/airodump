@@ -1,0 +1,7 @@
+[2018-01-27 17:35:13.273] [basic_logger] [info] Some log message
+[2018-01-27 17:36:30.615] [basic_logger] [info] Some log message
+[2018-01-27 17:42:23.175] [basic_logger] [info] Some log message
+[2018-01-27 17:43:45.421] [basic_logger] [info] Some log message
+[2018-01-27 21:56:35.908] [basic_logger] [info] Some log message
+[2018-01-29 01:09:07.322] [basic_logger] [info] Some log message
+[2018-01-29 01:09:36.243] [basic_logger] [info] Some log message

@@ -1,0 +1,8 @@
+﻿airodumump.obj : error LNK2019: "__declspec(dllimport) void __cdecl google::InitGoogleLogging(char const *)" (__imp_?InitGoogleLogging@google@@YAXPEBD@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: __cdecl google::LogMessage::LogMessage(char const *,int)" (__imp_??0LogMessage@google@@QEAA@PEBDH@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: __cdecl google::LogMessage::LogMessage(char const *,int,int)" (__imp_??0LogMessage@google@@QEAA@PEBDHH@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: __cdecl google::LogMessage::~LogMessage(void)" (__imp_??1LogMessage@google@@QEAA@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl google::LogMessage::stream(void)" (__imp_?stream@LogMessage@google@@QEAAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: __cdecl google::LogMessageFatal::LogMessageFatal(char const *,int)" (__imp_??0LogMessageFatal@google@@QEAA@PEBDH@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+airodumump.obj : error LNK2019: "__declspec(dllimport) public: __cdecl google::LogMessageFatal::~LogMessageFatal(void)" (__imp_??1LogMessageFatal@google@@QEAA@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+C:\Users\Hwang\documents\visual studio 2015\Projects\pcap\x64\Debug\pcap.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
